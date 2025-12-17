@@ -1,0 +1,20 @@
+{
+  "short_name": "党史智学",
+  "name": "红色征途 - 党史智学",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/china.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/china.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#DE2910",
+  "background_color": "#f8fafc"
+}
